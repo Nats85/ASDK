@@ -3,7 +3,7 @@ title:  Capsula Descarga Aranda File Server
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como hacer la descarga de los instaladores de nuestros fuentes para hacer la instalación de algúno de nuestros productos.
