@@ -3,7 +3,7 @@ title:  Config Settings notif.srv correo
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video pasaremos a configuración de notificaciones de correo.
