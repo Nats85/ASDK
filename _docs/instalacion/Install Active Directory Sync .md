@@ -3,7 +3,7 @@ title: Install Active Directory Sync 8.3.3
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación de Active Directory Sync, que es hacer una interfaz u nuestro directorio activo.
