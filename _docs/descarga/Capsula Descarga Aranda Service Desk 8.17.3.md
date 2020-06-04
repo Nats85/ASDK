@@ -3,7 +3,7 @@ title: Capsula Descarga Aranda Service Desk 8.17.3
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como descargar el instalador principal en la instalación de nuestro producto **_Aranda Service Desk_**.
