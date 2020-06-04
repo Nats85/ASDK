@@ -3,7 +3,7 @@ title: Capsula Descarga Aranda Web Configurator 9.4.3
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como descargar **_Aranda service web configurator_**
