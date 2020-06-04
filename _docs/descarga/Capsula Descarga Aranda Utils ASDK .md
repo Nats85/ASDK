@@ -3,7 +3,7 @@ title:  Capsula Descarga Aranda Utils ASDK
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como descargar lo utilitarios donde encontraremos:
