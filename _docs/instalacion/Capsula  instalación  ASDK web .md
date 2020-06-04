@@ -3,7 +3,7 @@ title:  Capsula Instalación ASDK Web
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación de las descargas de nuestros fuentes e instaladores Web.
