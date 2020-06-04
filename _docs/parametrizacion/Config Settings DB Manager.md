@@ -3,7 +3,7 @@ title:  Config Settings DB Manager
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video pasaremos asignar un servidor que administre el licenciamiento de nuestra herramienta, con su configuración respectiva.
