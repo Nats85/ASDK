@@ -3,7 +3,7 @@ title: Install CMBD Importer 8.0.60
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación CMBD Importer.
