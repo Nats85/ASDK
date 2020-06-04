@@ -3,7 +3,7 @@ title:   Config ADS Sync
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video realizaremoos una soncronizacion Aranda Active Directory Sync.
