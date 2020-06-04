@@ -3,7 +3,7 @@ title: Instalación ATAuthorization 8.1.3
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación ATAuthorization Aranda.
