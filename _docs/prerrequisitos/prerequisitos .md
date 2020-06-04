@@ -3,7 +3,7 @@ title: Prerequisitos ASDK
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra paso a paso la instalación de la solución de **_Aranda Service Desk_**, con esto veremos los prerrequisitos de esta instalación:
