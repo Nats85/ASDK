@@ -3,7 +3,7 @@ title: Capsula descarga general fuentes ASDK
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como hacer la descarga de los instaladores de nuestras fuentes para hacer la instalación de algún producto.
