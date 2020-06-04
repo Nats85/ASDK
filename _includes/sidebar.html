@@ -1,0 +1,49 @@
+<a href="javascript:void(0)" class="sg_sidebar_button"><i class="icon" data-icon="menu"></i></a>
+<div class="sg_sidebar">
+  <a href="{{ site.baseurl }}/index.html" class="logo">
+    <div class="icon"><img src="{{ site.baseurl }}/styleguide/branding/png/styleguide-64x64.png"></div>
+    <div class="title">{{ site.sg_title }}</div>
+  </a>
+
+  <a href="https://nats85.github.io/docs/"{% if page.url == '/' %} class="active"{% endif %}>Portal Documentación</a></li>
+  <ul>
+    <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Introducción</a></li>
+  </ul>
+
+  {% assign prerrequisitos = site.docs | where: 'type', 'prerrequisitos' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Prerrequisitos</div>
+    <ul>{% for doc in prerrequisitos %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign descarga = site.docs | where: 'type', 'descarga' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Descarga fuentes de instalación</div>
+    <ul>{% for doc in descarga %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign parametrizacion = site.docs | where: 'type', 'parametrizacion' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Parametrización Inicial</div>
+    <ul>{% for doc in parametrizacion %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign instalacion = site.docs | where: 'type', 'instalacion' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Instalación ASDK</div>
+    <ul>{% for doc in instalacion %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
+  {% assign samples = site.docs | where: 'type', 'sample' | sort: 'url' %}
+  <ul>{% for doc in samples %}
+    <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+  {% endfor %}</ul>
+</div>
