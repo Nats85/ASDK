@@ -3,7 +3,7 @@ title: Install Aranda Web Configurator 9.4.3
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación Aranda Web Configurator.
