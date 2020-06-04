@@ -3,7 +3,7 @@ title:  Config sitios AFS DBConf
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video pasaremos a  realizar una configuración de File Service Aranda y sitios AFS.
