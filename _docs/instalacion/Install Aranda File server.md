@@ -3,7 +3,7 @@ title: Install Aranda File Server 8.3.10
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación Aranda File Server nuestro servidor de archivos.
