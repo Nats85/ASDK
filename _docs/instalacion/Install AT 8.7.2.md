@@ -3,7 +3,7 @@ title: Install AT 8.7.2
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video muestra como realizar la instalación AT 8.7.2
