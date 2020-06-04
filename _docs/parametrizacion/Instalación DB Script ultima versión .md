@@ -3,7 +3,7 @@ title:   Instalación DB Script  a ultima versión
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video veremos actualizaciones, de la ultima versión.
