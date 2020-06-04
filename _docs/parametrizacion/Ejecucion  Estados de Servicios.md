@@ -3,7 +3,7 @@ title:   Ejecución y Estados de Servicios
 info:
 ---
 
-🕐 Ultima actualización: Junio 1 de 2020
+##### 🕐 Ultima actualización: Junio 1 de 2020
 
 
 El siguiente video veremos servicios asociados a nuestra consola **_Aranda Service Desk_** y realizar su respectiva ejecución.
