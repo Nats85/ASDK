@@ -10,6 +10,14 @@
     <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Introducción</a></li>
   </ul>
 
+  {% assign preparacion = site.docs | where: 'type', 'preparacion' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Preparación</div>
+    <ul>{% for doc in preparacion %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
   {% assign prerrequisitos = site.docs | where: 'type', 'prerrequisitos' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Prerrequisitos</div>
@@ -34,10 +42,10 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign instalacion = site.docs | where: 'type', 'instalacion' | sort: 'url' %}
+  {% assign proyecto = site.docs | where: 'type', 'proyecto' | sort: 'url' %}
   <div class="group">
-    <div class="group_title">Instalación ASDK</div>
-    <ul>{% for doc in instalacion %}
+    <div class="group_title">Proyecto</div>
+    <ul>{% for doc in proyecto %}
       <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
     {% endfor %}</ul>
   </div>
