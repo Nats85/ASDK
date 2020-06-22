@@ -55,13 +55,20 @@ defaults:
       type: doc
   -
     scope:
+      path: "_docs/preparacion"
+    values:
+      layout: doc
+      type: preparacion
+  -
+
+    scope:
       path: "_docs/prerrequisitos"
     values:
       layout: doc
       type: prerrequisitos
   -
     scope:
-      path: "_docs/descargan"
+      path: "_docs/descarga"
     values:
       layout: doc
       type: descarga
@@ -73,10 +80,10 @@ defaults:
       type: parametrizacion
   -
     scope:
-      path: "_docs/instalacion"
+      path: "_docs/proyecto"
     values:
       layout: doc
-      type: instalacion
+      type: proyecto
   -
 
 ###################################
